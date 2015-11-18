@@ -3,6 +3,7 @@ en:
     ATTACHFILESHERE_OR: "Attach files by dropping them in here, or"
     ATTACHFILEHERE_OF: "Attach a file by dropping it in here, or"
     BROWSEYOURCOMPUTER: "browse your computer"
+    YOUCANALSO: "You can also"
     UPLOADFILES: "Upload file(s)"
     NOTSUPPORTED: "Your browser does not support HTML5 uploads. Please update to a newer version."
     DETACHFILE: "remove"
