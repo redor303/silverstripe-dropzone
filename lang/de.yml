@@ -1,0 +1,9 @@
+de:
+  Dropzone:
+    ATTACHFILESHERE_OR: "Ziehen Sie Ihre Datein in dieses Feld, oder"
+    ATTACHFILEHERE_OR: "Ziehen Sie Ihre Datei in dieses Feld, oder"
+    BROWSEYOURCOMPUTER: "durchsuchen Sie Ihren Computer"
+    UPLOADFILES: "Datei(en) hochladen"
+    NOTSUPPORTED: "Ihr Browser unterstützt keine HTML5 uploads. Bitte aktualisieren Sie ihn."
+    DETACHFILE: "entfernen"
+    MARKFORDELETION: "löschen"
